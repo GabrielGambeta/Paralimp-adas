@@ -1,5 +1,5 @@
 
-###  Espirito Paralímpico: Sua Busca, Nosso Compromisso
+###  Espirito Paralímpico: Sua Busca, Nosso Compromisso  - Imersão Dev Alura com o Google Gemini
 
 **O que faz essa aplicação?**
 
