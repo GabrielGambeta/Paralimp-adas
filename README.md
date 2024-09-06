@@ -48,7 +48,7 @@ Se tiver alguma dúvida, é só abrir uma issue aqui no GitHub ou me mandar um e
 
 * **Gabriel Gambeta:** O cérebro por trás da ideia e o responsável pelo desenvolvimento.
 * Projeto desenvilvido durante a Imersão Dev Alura com o Google Gemini.
-
+Link para testar o projeto: https://paralimpiadas.vercel.app/
 Com este README descontraído, você atrairá mais pessoas para o seu projeto e facilitará a colaboração. 
 
 
