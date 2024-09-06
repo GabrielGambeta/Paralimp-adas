@@ -1,5 +1,5 @@
 
-### ** Espirito Paralímpico: Sua Busca, Nosso Compromisso**
+###  Espirito Paralímpico: Sua Busca, Nosso Compromisso
 
 **O que faz essa aplicação?**
 
